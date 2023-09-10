@@ -21,4 +21,4 @@ In theory, multiple DDSs can be controlled by the same arduino by using a differ
 PWR_DWN -> Add jumper
 
 
-The organization is typical of user-added labscript devices, except there is an extra folder AD9959_v2_MLP. The folder contains code which should be uploaded to the arduino.
+The organization is typical of user-added labscript devices, except there is an extra folder AD9959_v2. The folder contains code which should be uploaded to the arduino.
